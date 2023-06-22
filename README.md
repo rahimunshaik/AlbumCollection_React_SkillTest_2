@@ -1,6 +1,35 @@
-# Getting Started with Create React App
+# Getting Started with Create React App- My Books Album Collection
+
+- [ ] I've updated README in a way relevant to my changes
+Directory Structure to build Album Collection:
+--public
+    -index.html         //render data to browser
+--src
+    -components
+        -AddAlbum.js    //logic of adding album in to list
+        -AlbumsList.js  //rendering list data in it
+        -App.js         //overall structure and logic of my application
+        -ListData.js    //Albums arranged in list
+        -Navbar.js      //navigation bar for my album
+        -UpdateAlbum.js //Updating album data logic
+    -index.js   //Entry point-rendering root
+    -index.css  //applied styles for my Album
+
+Use command in your terminal:-
+>>npm start
+view the project in ur browser
+
+## Available Scripts
+getting json data from:--https://jsonplaceholder.typicode.com/albums
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## How I want my app:
+My App should look like album where every album should have its image on the album
+for example album 1 "Thriller" by Michael Jackson and the display image of Thriller book on album
+when I click on it it should open the pdf of that book.
+
+this is how my App should have the list of albums in my app.
 
 ## Available Scripts
 

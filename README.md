@@ -1,6 +1,8 @@
-# Getting Started with Create React App- My Books Album Collection
+# Getting Started with Create React App- My Album Collection
 
-- [ ] I've updated README in a way relevant to my changes
+This project is a web application that displays a collection of albums. Each album is represented by a title and an ID. The application allows users to add, update, and delete albums.
+
+To create this react based web application we need some basic understanding about following things :--- I've updated README in a way relevant to my changes
 Directory Structure to build Album Collection:
 --public
     -index.html         //render data to browser
@@ -15,9 +17,9 @@ Directory Structure to build Album Collection:
     -index.js   //Entry point-rendering root
     -index.css  //applied styles for my Album
 
-Use command in your terminal:-
->>npm start
-view the project in ur browser
+## LIVE:
+## GITHUB:
+## Youtube:
 
 ## Available Scripts
 getting json data from:--https://jsonplaceholder.typicode.com/albums
@@ -25,9 +27,12 @@ getting json data from:--https://jsonplaceholder.typicode.com/albums
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## How I want my app:
-My App should look like album where every album should have its image on the album
-for example album 1 "Thriller" by Michael Jackson and the display image of Thriller book on album
-when I click on it it should open the pdf of that book.
+My App should look like album list 
+where every album should contain main title ,update and delete button on it
+when I click on update button It should redirect to form for the updation
+When I click on delete the album should be deleted and display a message album deleted
+when i click on add album it should contain a form with tile and Id 
+and after submiting that form new album should get added into my list
 
 this is how my App should have the list of albums in my app.
 

@@ -18,9 +18,9 @@ Directory Structure to build Album Collection:
     -index.js   //Entry point-rendering root
     -index.css  //applied styles for my Album
 
-## LIVE:
-## GITHUB:
-## Youtube:
+## LIVE:https://master--vocal-cendol-07914d.netlify.app/
+## GITHUB:https://github.com/rahimunshaik/AlbumCollection_React_SkillTest_2
+## Youtube:https://youtu.be/dsqSy5KBkzQ
 
 ## Available Scripts
 getting json data from:--https://jsonplaceholder.typicode.com/albums
